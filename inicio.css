@@ -1,0 +1,11 @@
+
+#legal { margin-left: 10px; }
+#legall { font-size: xx-large; }
+#legal1 { font-size: larger; margin-left: 90px; }
+div.carr { margin-top: 60px; }
+#legal1:hover { color: rgb(211, 0, 0); }
+#legall:hover { color: rgb(211, 0, 0); }
+#immg { width: 100%; }
+p.ttxt { font-size:large; }
+a.cont { font-size:large; }
+div.foo { margin-top: 90px; }
